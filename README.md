@@ -60,3 +60,13 @@ This repository will also serve as a showcase for the projects I build, with eac
 - Learning how to integrate third-party packages and services (e.g., Stripe for payments) into websites.
 - Moving into more specialized advanced concepts like building REST APIs.
 - Exploring frontend JavaScript frameworks like Vue.js to build even more powerful web user interfaces.
+
+
+---
+
+## 🎓 Learning Resources
+
+This boot camp journey is inspired and guided by the courses available on **Udemy**, where I have been following comprehensive web development training videos.  
+Special thanks to the instructors whose courses helped me gain deeper insights into web development.
+
+
